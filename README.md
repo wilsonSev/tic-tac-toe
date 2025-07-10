@@ -18,6 +18,7 @@ A modular Java implementation of a customizable Tic-Tac-Toe game with support fo
 1. Compile all `.java` files:
    ```bash
    javac game/*.java
+   ```
 2. Run the game:
   ```bash
   java game.Main
